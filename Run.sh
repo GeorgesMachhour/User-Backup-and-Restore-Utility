@@ -70,8 +70,8 @@ restore() {
 # Check if the required number of arguments is provided
 if [ $# -ne 2 ]; then
   echo "How to use it: $0 <command> <argumnet>"
-  echo "Commands: -backup <destination>
-          -restore <backup_location>"
+  echo "Commands: backup <destination>
+          restore <backup_location>"
   exit 1
 fi
 
