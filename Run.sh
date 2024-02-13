@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "This tool is created by Georges and Christine MACHHOUR"
+echo "This tool is created by Georges MACHHOUR"
 
 echo "---------------------------------------------------------"
 
